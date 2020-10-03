@@ -7,3 +7,5 @@ def using_insert(list_of_programming_languages, another_language)
 end
 
 def unising_uniq(haircuts)
+  haircuts.uniq
+end
