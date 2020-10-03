@@ -6,6 +6,6 @@ def using_insert(list_of_programming_languages, another_language)
   list_of_programming_languages.insert(4, another_language)
 end
 
-def unising_uniq(haircuts)
+def using_uniq(haircuts)
   haircuts.uniq
 end
